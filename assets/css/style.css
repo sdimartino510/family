@@ -1,0 +1,12 @@
+body {
+    background-color: #f0e68c;
+}
+
+.header {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #f88484;
+    padding: 15px;
+}
