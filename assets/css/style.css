@@ -1,5 +1,5 @@
 body {
-    background-color: #f0e68c;
+    background-color: #A2ABAB;
 }
 
 .header-title {
@@ -7,12 +7,12 @@ body {
     font-size: 60px;
     font-weight: 700;
     text-align: center;
-    background-color: #f4c2c2;
+    background-color: #586994;
     padding: 15px;
 }
 .links {
     text-align: right;
-    background-color: #f4c2c2;
+    background-color: #586994;
     padding: 35px;
     font-size: 25px;
 }
