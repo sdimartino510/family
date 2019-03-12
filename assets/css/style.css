@@ -1,5 +1,8 @@
 body {
+    background-image: url("../images/crossline-lines.png");
+    background-repeat: repeat;
     background-color: #A2ABAB;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .header-title {
@@ -10,6 +13,17 @@ body {
     background-color: #586994;
     padding: 15px;
 }
+
+.about-photo {
+    float: left;
+    margin-right: 15px;
+}
+
+.welcome-heading {
+    font-size: 20px;
+    font-weight: 900;
+}
+
 .links {
     text-align: right;
     background-color: #586994;
